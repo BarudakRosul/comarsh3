@@ -1,8 +1,16 @@
 # custom files
 !/files/example.py
+/files/
 !/out/example.py
+/out/
 
 # temp files directories
 /files/
 /out/
 /.cache/
+
+# disabled files
+*.swp
+*.disabled
+.idea/
+*.tmp
