@@ -3,16 +3,16 @@ Alat untuk mengenkripsi Python versi 3 keatas ke format Marshal string.
 
 # Penginstallan
 ### Termux
-* `$ pkg update -y && pkg upgrade -y
+* `$ pkg update -y && pkg upgrade -y`
 * `$ pkg install python bzip2 git -y`
-* `$ git clone https://github.com/RFHackers/comarsh3
+* `$ git clone https://github.com/RFHackers/comarsh3`
 * `$ cd comarsh3`
 * `$ bash marsh.sh`
 
 ### Linux
-* `$ apt update -y && apt upgrade -y
+* `$ apt update -y && apt upgrade -y`
 * `$ apt install python bzip2 git -y`
-* `$ git clone https://github.com/RFHackers/comarsh3
+* `$ git clone https://github.com/RFHackers/comarsh3`
 * `$ cd comarsh3`
 * `$ bash marsh.sh`
 
