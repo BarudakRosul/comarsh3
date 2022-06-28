@@ -1,0 +1,8 @@
+# custom files
+!/files/example.py
+!/out/example.py
+
+# temp files directories
+/files/
+/out/
+/.cache/
